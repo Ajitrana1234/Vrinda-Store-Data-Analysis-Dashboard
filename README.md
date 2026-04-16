@@ -12,3 +12,7 @@ The Vrinda wants to create an annual sales report for 2022. So, that, the ownero
 - List top 10 states contribution the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+- 
+- ## Dashboard
+- <img width="1852" height="674" alt="Screenshot 2026-04-16 102727" src="https://github.com/user-attachments/assets/1f784d70-714e-400f-b159-e3edddfbc8a5" />
+
